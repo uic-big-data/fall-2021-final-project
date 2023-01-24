@@ -1,7 +1,7 @@
-# CS594 - Big Data Visualization & Analytics (Fall 2021)
+# CS594 - Big Data Visualization & Analytics
 
 Instructor: Fabio Miranda
 
-Course webpage: https://fmiranda.me/courses/cs594-fall-2021/
+Course webpage: https://fmiranda.me/courses/
 
-Final project template. More information: https://fmiranda.me/courses/cs594-fall-2021/final-project
+Final project template.
